@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atrastudhi/AppLiz.git"
+    "url": "git+https://github.com/anharfathoni/Appliz-Heroku.git"
   },
   "author": "Atras - Anhar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/atrastudhi/AppLiz/issues"
+    "url": "https://github.com/anharfathoni/Appliz-Heroku/issues"
   },
-  "homepage": "https://github.com/atrastudhi/AppLiz#readme",
+  "homepage": "https://github.com/anharfathoni/Appliz-Heroku#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "ejs": "^2.6.1",
