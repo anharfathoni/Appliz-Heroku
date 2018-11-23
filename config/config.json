@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "Appliz_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "xltpnpybmswpja",
+    "password": "0ab4a7bfafb9fe8b55465e1ccdc09a2e819001825810e5729f0fbd8e5b39704c",
+    "database": "dfrmvuk412gt3q",
+    "host": "ec2-54-197-249-140.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
