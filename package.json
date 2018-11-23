@@ -25,9 +25,11 @@
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "express-session": "^1.15.6",
+    "foobar": "^1.1.0",
     "nodemailer": "^4.7.0",
     "pg": "^7.6.1",
     "pg-search-sequelize": "0.0.10",
     "sequelize": "^4.41.2"
-  }
+  },
+  "devDependencies": {}
 }
