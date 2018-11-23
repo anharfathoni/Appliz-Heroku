@@ -4,7 +4,7 @@
   "description": "pairProject",
   "main": "index.js",
   "engines": {
-    "node": "8.10.0",
+    "node": "11.1.0",
     "npm": "3.5.2"
   },
   "scripts": {
