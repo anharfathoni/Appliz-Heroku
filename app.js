@@ -7,7 +7,7 @@ const AdminRouter = require('./routes/admin')
 const TransactionRouter = require('./routes/transaction')
 const helper = require('./helper/helper')
 // const port = 3000
-const port = process.env.PORT || 3300
+const PORT = process.env.PORT || 3300
 
 app.set('view engine', 'ejs')
 app.use(express.urlencoded({extended: false}))
@@ -32,4 +32,4 @@ app.get('/*', (req, res) => {
     res.redirect('/home')
 })
 
-app.listen(port, () => console.log('Running...'))
+app.listen(PORT)
